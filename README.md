@@ -12,3 +12,7 @@ Password: 12345678
 If you want to register a new admin
 goto http://127.0.0.1:8000/register
 
+# Database
+Database name is laravel
+Import the sql file into the database
+It includes both admin and users
